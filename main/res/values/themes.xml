@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.arcencrypt" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#1fbdd2</item>
+        <item name="android:statusBarColor">#1fbdd2</item>
+    </style>
+
+    <style name="Theme.arcencrypt" parent="Base.Theme.arcencrypt" />
+</resources>

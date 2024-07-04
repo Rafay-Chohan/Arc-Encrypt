@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arc Encrypt</string>
+    <string name="encrypt_input_text">Encrypt Input Text</string>
+    <string name="adder_input">Adder Input</string>
+    <string name="multiplier_input">Multiplier Input</string>
+    <string name="input_text">Input Text</string>
+    <string name="decrypt_text">Decrypt Text</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mul"><![CDATA[0-61 & Prime]]></string>
+    <string name="adder">0-61</string>
+    <string name="message">Message</string>
+</resources>
